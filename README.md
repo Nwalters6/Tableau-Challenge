@@ -13,25 +13,13 @@ However, while the data has been regularly updated, the team has yet to implemen
 # Peak Summer/Winter Hours - Citi Bike Analytics
 The peak hours for summer months are the mornings and the evenings such as 7 am, 8 am and 9 am. The peak hours for the winter months are mostly the evening hours such as 6 pm, 7 pm, and 9 pm. Overall, it appears that the most popular times to ride a bike is during the evening or morning. This may be due to commuting times. 
 
-![Citi-Bikes](Images/Peak Summer Hours.jpg)
-![Citi-Bikes](Images/Peak Winter Hours.jpg)
+![summerhours](Images/Peak-Summer-Hours.jpg)
+![winterhours](Images/Peak-Winter-Hours.jpg)
 
-**Additionally, city officials would like to see the following visualizations:**
+# Each Stations Popularity Over Time - Citi Bike Analytics
+It appears that they are getting more popular as time goes on with the peak being over the summer months. I believe that this is due to the nice weather in New York compared to the snowy weather that they recieve during the winter.
 
-* A static map that plots all bike stations with a visual indication of the most popular locations to start and end a journey with zip code data overlaid on top.
-
-* If you're working with a merged dataset: a dynamic map that shows how each station's popularity changes over time (by month and year) -- with commentary pointing to any interesting events that may be behind these phenomena.
-
-
-## Assessment
-
-Your final product will be assessed on the following metrics: 
-
-* Analytic Rigor
-
-* Readability
-
-* Visual Attraction
+![overtime](Images/Over-Time.jpg)
 
 
 ## Copyright
